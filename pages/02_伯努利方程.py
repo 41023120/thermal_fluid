@@ -1,5 +1,4 @@
 import streamlit as st
-
 st.title("實驗二: 水衝擊實驗")
 # 在這裡添加實驗一的具體內容，如圖表、數據等
 st.markdown("### 國立虎尾科技大學機械設計工程系")
@@ -17,27 +16,27 @@ st.header("貳、儀器與設備")
   # 請替換為實際圖片路徑
 st.write("""水衝擊實驗係由一水循環泵、驅動馬達、儲水槽、實驗台架、柏登壓力錶、流量控制閥、水衝擊台一套(包括有透明壓克力套筒、噴嘴、各種形式之衝擊檔板、動量平衡器)、以及三角形堰(流量計)、和稱重器等構成整套儀器，詳細構造如圖一所示。
 """)
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-1.png", caption=" ")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-2.png", caption=" ")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-3.png", caption=" ")
+st.image("./imges/2-1.png", caption=" ")
+st.image("./imges/2-2.png", caption=" ")
+st.image("./imges/2-3.png", caption=" ")
 # 參、實驗原理
 st.header("參、實驗原理")
 st.write("衝擊試驗之主要目的在驗証動量方程式。吾人知道動量方程式屬於流體力學四大方程式之一，其應用頗為廣泛，如衝動式水輪機之分析、各型彎管、噴嘴之受力分析等均有賴動量方程式的計算。至於各式離心泵、衝動式水輪機等亦需藉重經由動量方式推導出之動量矩方程式來分析，故吾人希望藉重此一實驗來加深讀者對動量方程式應用在流體力學的控制體積時，一般可表為下列之形式")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-4.png", caption=" ")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-5.png", caption=" ")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-6.png", caption=" ")
+st.image("./imges/2-4.png", caption=" ")
+st.image("./imges/2-5.png", caption=" ")
+st.image("./imges/2-6.png", caption=" ")
 st.write("即 X 方向之受力=流出之動量在 X 方向之分量 – 流入之動量在 X 方向之分量其他 y、z方向之情形均同，在此不再重複。為了驗證此一動量方程式，及加強同學對動量方程式的瞭解，本實驗設計了三種不同形狀的硯板，其理論上之受力情形，可用上面所述之簡單理論加以推導之。在推導其基本方程式的時候，吾人均做了如下的假設:")
 st.write("""
 1.平板之表面極為光滑，可視為無磨擦，即水進入平板之速度 Vj 等於流出平板之速度 Ve。
 2.因水之重力對平板產生之影響很小，故予以忽略。
 3.穩定流。
 """)
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-7.png", caption=" ")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-8.png", caption=" ")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-9.png", caption=" ")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-10.png", caption=" ")
+st.image("./imges/2-7.png", caption=" ")
+st.image("./imges/2-8.png", caption=" ")
+st.image("./imges/2-9.png", caption=" ")
+st.image("./imges/2-10.png", caption=" ")
 # 若有更多公式或數據表，可以插入 st.latex 或 st.dataframe 來呈現
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-11.png", caption=" ")
+st.image("./imges/2-11.png", caption=" ")
 
 # 肆、實驗步驟
 st.header("肆、實驗步驟")
@@ -54,12 +53,12 @@ st.write("""
 10.	實驗結束，關閉電源，並將流量測量槽內之水排放至儲水槽。
 
 """)
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-13.png", caption=" ")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-14.png", caption=" ")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-15.png", caption=" ")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-16.png", caption=" ")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-17.png", caption=" ")
-st.image("C:\\Users\\luxui\\thermal_fluid\\pages\\images\\2-18.png", caption=" ")
+st.image("./imges/2-13.png", caption=" ")
+st.image("./imges/2-14.png", caption=" ")
+st.image("./imges/2-15.png", caption=" ")
+st.image("./imges/2-16.png", caption=" ")
+st.image("./imges/2-17.png", caption=" ")
+st.image("./imges/2-18.png", caption=" ")
 # 伍、實驗結果與討論
 st.header("伍、實驗結果與討論")
 st.write("""
