@@ -4,7 +4,7 @@ import streamlit as st
 st.title("實驗四：管路磨擦與閥特性實驗")
 st.markdown("### 國立虎尾科技大學機械設計工程系")
 st.markdown("### 113學年度『機械工程實驗(二)：熱流力實驗』")
-st.image("./imges/s1.png", caption=" ")
+st.image("./imges/s1.jpg", caption=" ")
 st.markdown("**指導教授：** 周榮源")
 st.markdown("**班級：** 四設計四甲")
 st.markdown("**組別：** 第一組")
