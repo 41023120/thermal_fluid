@@ -78,7 +78,7 @@ st.write("4.實驗數據與書籍數據的符合性及改進建議")
 st.write("若實驗結果與書籍中數據有所差異，可能原因包括儀器設備精度不足或流體黏度等實驗條件未達標準。改進建議為確保設備的精確度、提升數據測量的精密性，並在流量控制上做到更精確的穩定流動")
 st.image("./imges/1.21.png", caption="")
 st.image("./imges/1.22.png", caption="")
-st.header("伍、實驗結果與討論")
+st.video("https://youtube.com/shorts/hYAsKKiVeCQ?feature=share")
 # 參考文獻
 st.header("柒、延伸應用與討論")
 st.write("1. 列表整理出圓管、通道、矩(或方)形斷面管、任意形狀(如血管) 之 Re 算法，及在 Laminar flow ,transition flow, turbulent flow 下 Re 範圍?")
