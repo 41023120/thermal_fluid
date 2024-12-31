@@ -1,7 +1,7 @@
 import streamlit as st
 
 # 網頁標題與基本訊息
-st.title("實驗四：黏滯係數量測")
+st.title("實驗四：管路磨擦與閥特性實驗")
 st.markdown("### 國立虎尾科技大學機械設計工程系")
 st.markdown("**指導教授：** 周榮源")
 st.markdown("**班級：** 四設計四甲")

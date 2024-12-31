@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("實驗一: 流體靜力學")
+st.title("實驗一: 雷諾數實驗")
 
 st.write("這裡是流體靜力學實驗的詳細內容。")
 

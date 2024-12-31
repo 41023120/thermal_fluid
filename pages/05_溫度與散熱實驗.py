@@ -1,6 +1,6 @@
 import streamlit as st
 
-st.title("實驗一: 流體靜力學")
+st.title("實驗五：溫度與散熱實驗")
 
 st.write("這裡是流體靜力學實驗的詳細內容。")
 
@@ -10,7 +10,7 @@ st.markdown("**指導教授：** 周榮源")
 st.markdown("**班級：** 四設計四甲")
 st.markdown("**組別：** 第一組")
 st.markdown("**組員：** 呂昕叡, 李茂廷, 林承志, 姜陳昊")
-st.markdown("**日期：** 105年10月24號")
+st.markdown("**日期：** 113年12月24號")
 # 壹、實驗目的
 st.header("壹、實驗目的")
 st.write("量測液體黏滯係數，實驗中改變液體溫度，紀錄黏滯係數與溫度變化的關係")

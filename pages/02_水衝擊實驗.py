@@ -1,12 +1,12 @@
 import streamlit as st
-st.title("實驗二: 水衝擊實驗")
+st.title("實驗二:水衝擊實驗")
 # 在這裡添加實驗一的具體內容，如圖表、數據等
 st.markdown("### 國立虎尾科技大學機械設計工程系")
 st.markdown("**指導教授：** 周榮源")
 st.markdown("**班級：** 四設計四甲")
 st.markdown("**組別：** 第一組")
 st.markdown("**組員：** 呂昕叡, 李茂廷, 林承志, 姜陳昊")
-st.markdown("**日期：** 105年10月24號")
+st.markdown("**日期：** 113年12月24號")
 # 壹、實驗目的
 st.header("壹、實驗目的")
 st.write("瞭解流體流動時，其動量變化與其承受力量間之關係，以驗証動量方程式。")
