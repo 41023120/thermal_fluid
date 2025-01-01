@@ -3,6 +3,7 @@ st.title("實驗二:水衝擊實驗")
 # 在這裡添加實驗一的具體內容，如圖表、數據等
 st.markdown("### 國立虎尾科技大學機械設計工程系")
 st.markdown("### 113學年度『機械工程實驗(二)：熱流力實驗』")
+st.image("./imges/s9.png", caption=" ")
 st.markdown("**指導教授：** 周榮源")
 st.markdown("**班級：** 四設計四甲")
 st.markdown("**組別：** 第一組")
