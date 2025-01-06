@@ -141,6 +141,7 @@ st.image("./imges/x1.png", caption=" ")
 st.image("./imges/x2.png", caption=" ")
 st.image("./imges/x3.png", caption=" ")
 st.image("./imges/x4.png", caption=" ")
+st.video("./imges/0.1.mp4")
 # 肆、實驗步驟
 st.header("四、	結果與討論")
 st.image("./imges/s2.png", caption=" 評分表")
@@ -159,7 +160,7 @@ st.write("主題二、環境量測與控制裝置機械設計")
 
 st.image("./imges/s7.png", caption=" ")
 st.image("./imges/x5.png", caption=" ")
-st.video("./imges/0.1.mp4")
+
 st.write("""
 電腦模擬所產生的數據與實際測量結果之間，往往會因為外界因素的影響而產生誤差。
 例如，當天考試時，環境中的濕氣變化、散熱片的狀態是否良好（如是否生鏽或損壞）等，都會直接影響實際測量的數據。而電腦模擬的數據則是在理想化條件下進行計算，假設不存在外界因素的干擾，並且假定系統運行完美無缺。
