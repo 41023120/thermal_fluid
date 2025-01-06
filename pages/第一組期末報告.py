@@ -136,7 +136,11 @@ st.image("./imges/9.39.png", caption=" ")
 st.write(" (10)結果分析")
 st.image("./imges/9.40.png", caption="溫度分布圖")
 
-
+st.write("主題三、bladeless wind turbine結構設計僅Fluent模擬")
+st.image("./imges/x1.png", caption=" ")
+st.image("./imges/x2.png", caption=" ")
+st.image("./imges/x3.png", caption=" ")
+st.image("./imges/x4.png", caption=" ")
 # 肆、實驗步驟
 st.header("四、	結果與討論")
 st.image("./imges/s2.png", caption=" 評分表")
